@@ -1,0 +1,6 @@
+cd ---> change directory
+pwd ---> print working directory 
+mkdir ---> to create directory
+rmdir ---> to delete directory
+touch ---> to create file
+rm ---> to delete the file
